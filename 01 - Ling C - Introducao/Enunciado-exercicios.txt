@@ -1,0 +1,12 @@
+5.1) Faça um programa usando a linguagem C que realiza a leitura de três número inteiros positivos. Após a leitura, calcule e imprima na tela o resultado de cada uma das médias: geométrica (x*y*z); ponderada ((x+2*y+3*z)/6); harmônica (1/(1/x + 1/y + 1/z)); aritmética ((x + y + z)/3).
+
+5.2) Faça um programa usando a linguagem C que realiza a leitura de um número inteiro e imprime na tela que é o seu antecessor e seu sucessor.
+
+5.3) Faça um programa usando a linguagem C que realiza a leitura da altura e do raio de um cilindro circular e imprima qual é o volume do cilindro. O volume é calculado da seguinte maneira: Vol = PI * raio * raio* altura.
+
+5.4) Faça um programa usando a linguagem C que receba o valor de um raio e calcule e imprima: 
+  a) O comprimento de uma esfera (C = 2 * PI * raio).
+  b) A área de uma esfera (A = PI * raio2).
+  c) O volume de uma esfera (V = 3/4 * PI * raio3)
+
+5.5) Faça um programa usando a linguagem C que receba um número inteiro positivo maior que zero, calcule e imprima: o quadrado, o cubo, a raiz quadrada e a raiz cúbica do número digitado. Para calcular a raiz cúbica pode-se usar: pow(num, 1/3) ou cbrt(num).
